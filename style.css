@@ -5,3 +5,20 @@ body{
 h1{
     font-size: 50px;
 }
+
+.name{
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+
+.halfwidth{
+    width: 50%;
+    padding: 2%;
+}
+
+.halfwidth img {
+    width: 80%;
+}
